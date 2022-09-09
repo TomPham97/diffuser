@@ -1,4 +1,4 @@
-diffusers==0.3.0
+diffusers
 transformers
 scipy
 ftfy
