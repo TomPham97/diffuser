@@ -1,5 +1,5 @@
 # All things diffusion-related
-![denoising gif](https://github.com/TomPham97/diffuser/blob/main/diffusion_process.gif?raw=true)
+![denoising gif](diffusion_process.gif)
 
 ## Helpful resources
 ### Set up instructions
@@ -20,6 +20,8 @@ safety_checker.StableDiffusionSafetyChecker.forward = sc
 ```
 #### Get explainations for generated images
 The [diffusers-interpret library](https://github.com/JoaoLages/diffusers-interpret) can generate token attribution and gif of the denoising process.
+
+#### Simple [walkthrough in Jupyter notebook](2022-09-09-stable-diffusion-1-4.ipynb)
 
 ### Better image generation
 [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
