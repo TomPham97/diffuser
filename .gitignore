@@ -3,3 +3,4 @@
 huggingface-access-tokens.txt
 *checkpoint.txt
 *checkpoint.ipynb
+.ipynb_checkpoints/final-checkpoint.html
