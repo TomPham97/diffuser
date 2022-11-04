@@ -2,4 +2,3 @@ diffusers
 transformers
 scipy
 ftfy
-diffusers-interpret
